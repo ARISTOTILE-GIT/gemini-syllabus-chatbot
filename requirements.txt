@@ -1,7 +1,7 @@
 streamlit
 pypdfium2
 langchain
-langchain-google-genai
+langchain-google-genai>=1.0.3
 google-generativeai
 langchain-huggingface
 langchain-community
