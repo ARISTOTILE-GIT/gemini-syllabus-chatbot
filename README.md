@@ -17,9 +17,6 @@ Built entirely with **LangChain** and deployed live on **Streamlit Cloud**.
 
 👉 **[Try it Live on Streamlit!](https://gemini-syllabus-chatbot-totz.streamlit.app/)** 👈  
 
-> 💡 *Pro Tip:* Take a screenshot of your deployed app and upload it to your GitHub repo.  
-> You can then display it here as a live preview!
-
 ---
 
 ## 🧠 Overview
@@ -87,7 +84,7 @@ cd gemini-syllabus-chatbot
 ### 2️⃣ Create a Virtual Environment
 
 python -m venv venv source venv/bin/activate 
-# On Windows: venv\Scripts\activate
+On Windows: venv\Scripts\activate
 
 ### 3️⃣ Install Dependencies
 
