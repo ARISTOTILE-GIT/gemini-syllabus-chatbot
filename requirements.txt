@@ -1,0 +1,9 @@
+streamlit
+pypdfium2
+langchain
+langchain-google-genai
+google-generativeai
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+faiss-cpu
