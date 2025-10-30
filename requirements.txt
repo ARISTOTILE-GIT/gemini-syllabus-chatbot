@@ -1,10 +1,13 @@
 streamlit
 pypdfium2
+pypdf
 langchain
+langchain-core
+langchain-community
+langchain-text-splitters
 langchain-google-genai>=1.0.3
 google-generativeai
 langchain-huggingface
-langchain-community
-langchain-text-splitters
 faiss-cpu
-langchain-core
+transformers
+sentence-transformers
