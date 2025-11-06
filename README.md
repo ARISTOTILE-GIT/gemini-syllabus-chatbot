@@ -13,7 +13,7 @@ Built entirely with **LangChain** and deployed live on **Streamlit Cloud**.
 
 ---
 
-## 📸 Live Demo & App Preview
+## 📸 Live App
 
 👉 **[Try it Live on Streamlit!](https://gemini-syllabus-chatbot-totz.streamlit.app/)** 👈  
 
