@@ -13,8 +13,7 @@ import os, traceback, tempfile # 'tempfile' is important
 
 st.set_page_config(
     page_title="Syllabus Chatbot (Gemini-Hybrid)", 
-    page_icon="🤖",
-    theme="light" 
+    page_icon="🤖"
 )
 
 # --- Title and Description (All English) ---
